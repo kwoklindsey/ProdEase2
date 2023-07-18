@@ -11,6 +11,11 @@
 		3F5464EA2A67092000537CAE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5464E92A67092000537CAE /* ContentView.swift */; };
 		3F5464EC2A67092700537CAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F5464EB2A67092700537CAE /* Assets.xcassets */; };
 		3F5464EF2A67092700537CAE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F5464EE2A67092700537CAE /* Preview Assets.xcassets */; };
+		BD2192632A67115500F4A96C /* Skills.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD2192622A67115500F4A96C /* Skills.swift */; };
+		BD2192652A67119600F4A96C /* Pomo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD2192642A67119600F4A96C /* Pomo.swift */; };
+		BD2192672A6711A100F4A96C /* Spacedrep.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD2192662A6711A100F4A96C /* Spacedrep.swift */; };
+		BD2192692A6711AB00F4A96C /* blurtingMethod.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD2192682A6711AB00F4A96C /* blurtingMethod.swift */; };
+		BD21926B2A6711B700F4A96C /* Feynman.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD21926A2A6711B700F4A96C /* Feynman.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +24,11 @@
 		3F5464E92A67092000537CAE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3F5464EB2A67092700537CAE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F5464EE2A67092700537CAE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BD2192622A67115500F4A96C /* Skills.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Skills.swift; sourceTree = "<group>"; };
+		BD2192642A67119600F4A96C /* Pomo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pomo.swift; sourceTree = "<group>"; };
+		BD2192662A6711A100F4A96C /* Spacedrep.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spacedrep.swift; sourceTree = "<group>"; };
+		BD2192682A6711AB00F4A96C /* blurtingMethod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = blurtingMethod.swift; sourceTree = "<group>"; };
+		BD21926A2A6711B700F4A96C /* Feynman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Feynman.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +63,11 @@
 			children = (
 				3F5464E72A67092000537CAE /* ProdEase2App.swift */,
 				3F5464E92A67092000537CAE /* ContentView.swift */,
+				BD2192622A67115500F4A96C /* Skills.swift */,
+				BD2192642A67119600F4A96C /* Pomo.swift */,
+				BD2192662A6711A100F4A96C /* Spacedrep.swift */,
+				BD2192682A6711AB00F4A96C /* blurtingMethod.swift */,
+				BD21926A2A6711B700F4A96C /* Feynman.swift */,
 				3F5464EB2A67092700537CAE /* Assets.xcassets */,
 				3F5464ED2A67092700537CAE /* Preview Content */,
 			);
@@ -137,7 +152,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD2192652A67119600F4A96C /* Pomo.swift in Sources */,
+				BD21926B2A6711B700F4A96C /* Feynman.swift in Sources */,
+				BD2192692A6711AB00F4A96C /* blurtingMethod.swift in Sources */,
+				BD2192672A6711A100F4A96C /* Spacedrep.swift in Sources */,
 				3F5464EA2A67092000537CAE /* ContentView.swift in Sources */,
+				BD2192632A67115500F4A96C /* Skills.swift in Sources */,
 				3F5464E82A67092000537CAE /* ProdEase2App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

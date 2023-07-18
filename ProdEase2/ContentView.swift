@@ -19,6 +19,7 @@ struct ContentView: View {
                 .foregroundColor(Color(red: 0.063, green: 0.143, blue: 0.633))
             Spacer()
                 .frame(height: 10)
+            
             Text("Productivity Made Easier")
                 .fontWeight(.bold)
             
@@ -26,8 +27,10 @@ struct ContentView: View {
                 .resizable()
                 .aspectRatio(contentMode: .fit)
                 .frame(height : 200)
-            
             Text("Tap anywhere to begin")
+                
+
+           
             
             Image("bottomPicture")
                 .resizable()
@@ -43,3 +46,4 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
