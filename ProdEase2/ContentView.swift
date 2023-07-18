@@ -3,7 +3,7 @@
 //  prodEase
 //
 //  Created by Lindsey Kwok on 7/18/23.
-//j
+//heyyyy
 
 import SwiftUI
 
@@ -16,7 +16,7 @@ struct ContentView: View {
             Text("ProdEase")
                 .font(.largeTitle)
                 .fontWeight(.bold)
-//                .foregroundColor(Color(red: 6.3, green: 14.5, blue: 131.0))
+                .foregroundColor(Color(red: 0.063, green: 0.143, blue: 0.633))
             Spacer()
                 .frame(height: 10)
             Text("Productivity Made Easier")
