@@ -16,6 +16,7 @@
 		BD2192672A6711A100F4A96C /* Spacedrep.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD2192662A6711A100F4A96C /* Spacedrep.swift */; };
 		BD2192692A6711AB00F4A96C /* blurtingMethod.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD2192682A6711AB00F4A96C /* blurtingMethod.swift */; };
 		BD21926B2A6711B700F4A96C /* Feynman.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD21926A2A6711B700F4A96C /* Feynman.swift */; };
+		BD8607B92A6725AA00CCB34E /* TimerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8607B82A6725AA00CCB34E /* TimerApp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		BD2192662A6711A100F4A96C /* Spacedrep.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spacedrep.swift; sourceTree = "<group>"; };
 		BD2192682A6711AB00F4A96C /* blurtingMethod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = blurtingMethod.swift; sourceTree = "<group>"; };
 		BD21926A2A6711B700F4A96C /* Feynman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Feynman.swift; sourceTree = "<group>"; };
+		BD8607B82A6725AA00CCB34E /* TimerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerApp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				BD2192642A67119600F4A96C /* Pomo.swift */,
 				BD2192662A6711A100F4A96C /* Spacedrep.swift */,
 				BD2192682A6711AB00F4A96C /* blurtingMethod.swift */,
+				BD8607B82A6725AA00CCB34E /* TimerApp.swift */,
 				BD21926A2A6711B700F4A96C /* Feynman.swift */,
 				3F5464EB2A67092700537CAE /* Assets.xcassets */,
 				3F5464ED2A67092700537CAE /* Preview Content */,
@@ -159,6 +162,7 @@
 				3F5464EA2A67092000537CAE /* ContentView.swift in Sources */,
 				BD2192632A67115500F4A96C /* Skills.swift in Sources */,
 				3F5464E82A67092000537CAE /* ProdEase2App.swift in Sources */,
+				BD8607B92A6725AA00CCB34E /* TimerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
